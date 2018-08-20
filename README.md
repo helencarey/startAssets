@@ -1,5 +1,10 @@
 # startAssets
 
+preview page for background-image graphics: https://helencarey.github.io/startAssets/
+
+svg models are in docs/
+
+
 ## inline svg:
 * coinStack
 
