@@ -2,7 +2,8 @@
 
 preview page for background-image graphics: https://helencarey.github.io/startAssets/
 
-svg models are in docs/
+svg models are in docs/SVGModels/
+(there's only 1 for this round)
 
 
 ## inline svg:
