@@ -1,0 +1,17 @@
+{
+  "name": "imgpreview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1",
+    "http-server": "^0.11.1",
+    "nodemon": "^1.18.3"
+  }
+}
