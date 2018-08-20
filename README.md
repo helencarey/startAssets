@@ -1,6 +1,6 @@
 # startAssets
 
-preview page for css 'background-image' graphics: https://helencarey.github.io/startAssets/
+preview page for css 'background-image' graphics: https://helencarey.github.io/startAssets/   
 (just add the graphic's class to your containing div)
 
 svg models are in docs/svgModels/  
